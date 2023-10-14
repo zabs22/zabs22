@@ -1,17 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/zablondereje)
-<h1 align="center">Hi 👋, I'm Zablon</h1>
-<h3 align="center">A Passionate Data Analyst from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Zablon Dereje</h1>
+<h3 align="center">A Passionate Frontend Software Engineer, dedicated to creating user-friendly and visually appealing web applications from Ethiopia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabs22&label=Profile%20views&color=0e75b6&style=flat" alt="zabs22" /> </p>
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **NEXT.js, Tailwind CSS**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Front End Web Development**
 
 - 📫 How to reach me **zabsdere01@gmail.com**
 
-- ⚡ Fun fact **I play ball**
+- ⚡ Fun fact **I play basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
